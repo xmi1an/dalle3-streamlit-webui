@@ -1,4 +1,4 @@
-## Avatar Generator Documentation
+## DALL-E 3 Streamlit Web UI
 
 This Python script utilizes the Streamlit library to create an interactive web application for generating avatars using OpenAI's DALL-E 3 model.
 
