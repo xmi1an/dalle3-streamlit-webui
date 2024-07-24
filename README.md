@@ -2,7 +2,7 @@
 
 This Python script utilizes the Streamlit library to create an interactive web application for generating avatars using OpenAI's DALL-E 3 model.
 
-[![Avatar Generator](./static/screenshot.png')]
+![Avatar Generator](screenshot.png)
 
 ### Features
 
